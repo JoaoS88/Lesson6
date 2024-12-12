@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\proj\\Lesson6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9535C9-DA57-4DDC-AF7D-B6A2E1D6169D}|Module6_Task2\\Module6_Task2.vcxproj|J:\\proj\\Lesson6\\Module6_Task2\\dynamicallyallocatedStructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D9535C9-DA57-4DDC-AF7D-B6A2E1D6169D}|Module6_Task2\\Module6_Task2.vcxproj|solutionrelative:Module6_Task2\\dynamicallyallocatedStructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950F143-3CFA-45B4-BBF5-4C99C0FB28B2}|Module6_Task1\\Module6_Task1.vcxproj|J:\\proj\\Lesson6\\Module6_Task1\\usingStructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4950F143-3CFA-45B4-BBF5-4C99C0FB28B2}|Module6_Task1\\Module6_Task1.vcxproj|solutionrelative:Module6_Task1\\usingStructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dynamicallyallocatedStructs.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson6\\Module6_Task2\\dynamicallyallocatedStructs.cpp",
+              "RelativeDocumentMoniker": "Module6_Task2\\dynamicallyallocatedStructs.cpp",
+              "ToolTip": "J:\\proj\\Lesson6\\Module6_Task2\\dynamicallyallocatedStructs.cpp",
+              "RelativeToolTip": "Module6_Task2\\dynamicallyallocatedStructs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T16:42:51.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usingStructs.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson6\\Module6_Task1\\usingStructs.cpp",
+              "RelativeDocumentMoniker": "Module6_Task1\\usingStructs.cpp",
+              "ToolTip": "J:\\proj\\Lesson6\\Module6_Task1\\usingStructs.cpp",
+              "RelativeToolTip": "Module6_Task1\\usingStructs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T16:42:12.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
